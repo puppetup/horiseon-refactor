@@ -17,3 +17,7 @@ Clone repository onto device and open the index.html file
 ## Screenshot
 
 ![screenshot](assets/images/screenshot-page.png)
+
+## Credits
+
+Savino Hoshizaki is responsible for this
